@@ -1,0 +1,48 @@
+<html >
+	<head>
+		<title>
+		Trabalhando com tabelas
+		</title>
+	</head>
+	<body>
+		<h1><center>Trabalhando com tabelas</center></h1>
+		<center><table border="1" cellspacing="1" cellpadding="10px">
+			<tr height="50px"> 
+				<th width= "100px">Nome</th>
+				<th valign="">Idade</th>	 
+				<th>Linguagem</th>
+				<th>Definição</th>
+			</tr>
+			
+		<tr ><!-- Segunda Linha. Somente <td>-->
+			
+			<td>Nicolas	</td>
+			<td>18</td>
+			<td><a href= "https://www.java.com/pt-BR/download/?locale=pt_BR" target= "blank">Java</td>
+			<td>  <img src = "img/Bmars.jpg" width= "200px"> <a href= "https://open.spotify.com/intl-pt/artist/0du5cEVh5yTK9QJze8zA0C"target= "blank"/>   <br> <center><b>Bruno Mars</center></b><center></td>
+			
+		</tr>
+		<tr >
+		
+		<td>Allan</td>
+		<td>19</td>
+		<td><a href= "https://www.php.net/downloads.php" target= "blank"> PHP </td>
+		<td> <img src = "img/RogerGuedes.jpg" width= "150px"> <br> <center>Roger Guedes<center></td>
+		
+		</tr>
+		
+		<tr>
+		
+		<td> <a href= "https://www.instagram.com/edu.silva213/"> <img src= "img/eduardo.png" width= "200px"> <br> <center>Eduardo<center></td>
+		<td>18</td>
+		<td> <a href= "https://www.portugues.com.br/">Portugûes</td>
+		<td> <img src= "img/gym.png" width= "200 px"> <br> <center>Academia<center > </td>
+		
+		
+		</tr>
+	</table> </center>
+	
+	
+	
+	</body>
+</html>
